@@ -1,0 +1,7 @@
+.laptop iframe {
+  height: 156px;
+  width: 257.5px;
+  border-radius: 5px;
+  border: none;
+  scrollbar-track-color: transparent;
+}
